@@ -1,0 +1,155 @@
+.common-padding {
+    padding: 70px 0;
+}
+
+.head-icon i {
+    font-size: 40px;
+    letter-spacing: 20px;
+}
+
+
+body{
+    font-family: "Poppins", sans-serif !important;
+}
+
+
+.website-header {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.head-title h1 {
+    color: hsl(32.73deg 45.36% 61.96%);
+    font-size: 65px;
+    letter-spacing: 15px;
+    font-weight: 400;
+}
+
+.head-title h1 span {
+    color: #aeaeae;
+}
+
+.head-button a {
+    color: #caa272;
+    border: 2px solid #caa272;
+    padding: 5px 35px;
+    font-size: 30px;
+    text-decoration: none;
+    align-items:center;
+}
+
+/* banner css */
+
+.hero-banner, .black-banner {
+    position: relative;
+    display: flex;
+}
+
+.her-sec-content {
+    /* position: absolute;
+    top: 15%;
+    right: 4%; */
+    max-width: 40%;
+    margin-top: 10%;
+}
+
+.hero-image img {
+    max-width: 100%;
+}
+
+.common-heading h2 {
+    font-size: 68px;
+    font-weight: 400;
+}
+
+.common-heading h2 span {
+    color: #caa272;
+
+}
+/* banner css again */
+.black-banner {
+    padding-top: 10%;
+    min-height: 100vh;
+    flex-direction: row-reverse;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(51,49,51,0.9108893557422969) 50%, rgba(87,86,86,1) 100%);
+} 
+.buy-online {
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    border: 1px solid #fff;
+    padding: 5px 25px;
+}
+.find-store {
+    color: #caa272;
+    text-decoration: none;
+    font-size: 25px;
+    border: 1px solid #caa272;
+    padding: 5px 25px;
+    margin-left: 20px;
+}
+/* designed css */
+.common-paragraph {
+    font-size: 16px;
+    font-weight: 500;
+    color: #b6b6b6;
+}
+/* EUROPE MADE BRITAIN CSS */
+.multiple-section {
+    background-color: #000;
+}
+.background-cycle img {
+    width: 100%;
+    height: 500px;
+    margin-top: -180px;
+}
+
+.designed-made h3{
+    border: 1px solid transparent;
+    background-color: #fff;
+    color: #000;
+    width: fit-content;
+    margin-left: -80px;
+}
+.house-image img {
+    width: 80%;
+    height: 360px;
+    object-fit: cover;
+}
+/*  */
+.man-cycle img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+/*  */
+.bicycle-image img {
+    object-fit: cover;
+    width: 100%;
+    height: 400px;
+}
+/*  */
+image-cycle img {
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+}
+/*  */
+.text-footer {
+    text-align: center;
+}
+.cross-bar {
+    text-decoration: none;
+    color: #000;
+    font-size: 20px;
+}
+.lowstep {
+    text-decoration: none;
+    color: #caa272;
+    font-size: 20px;
+    border-bottom: 3px solid #caa272;
+}
+.last-image img {
+    width: 60%;
+}
